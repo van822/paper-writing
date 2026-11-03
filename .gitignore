@@ -1,0 +1,17 @@
+# Local drafts, validation output, and backups
+/tmp/
+/output/
+/repair-backups/
+*.bak
+*.bak_*
+
+# Original reference PDFs are not distributed
+*.pdf
+
+# Local credentials and desktop metadata
+.env
+.env.*
+auth.json
+.DS_Store
+Thumbs.db
+desktop.ini

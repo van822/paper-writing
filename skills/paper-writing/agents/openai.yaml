@@ -1,0 +1,6 @@
+interface:
+  display_name: "Paper Writing"
+  short_description: "手动启用的论文写作与图表指南，覆盖研究问题、章节组织和贡献证据的一致性"
+
+policy:
+  allow_implicit_invocation: false
